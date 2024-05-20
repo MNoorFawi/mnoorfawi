@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad (Noor) Fawi</h1>
+<h3 align="center">A passionate self-taught data scientist</h3>
 
-<!--
-**MNoorFawi/mnoorfawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **a research related to addressing catastrophic forgetting and knowledge degradation upon fine-tuning LLMs especially using LoRA**
 
-Here are some ideas to get you started:
+- 📝 My latest research paper [Development and Validation of a Deep Learning Model for Histopathological Slide Analysis in Lung Cancer Diagnosis](https://www.mdpi.com/2072-6694/16/8/1506)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I regularly write AI and Data Science articles on my website [https://minimatech.org](https://minimatech.org)
+
+- 💬 Ask me about **AI, Data Science, Reinforcement Learning, LLMs, NLP**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mnoorfawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnoorfawi" height="30" width="40" /></a>
+</p>
