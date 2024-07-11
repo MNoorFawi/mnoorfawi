@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad (Noor) Fawi</h1>
 <h3 align="center">A passionate self-taught data scientist</h3>
 
-- 🔭 I’m currently working on **a research related to addressing catastrophic forgetting and knowledge degradation upon fine-tuning LLMs especially using LoRA**
+- 🔭 I’ve recently worked on [a research related to addressing catastrophic forgetting upon continual fine-tuning of LLMs](https://github.com/MNoorFawi/curlora/blob/main/CURLoRA.pdf)
 
 - 📝 My latest research paper [Development and Validation of a Deep Learning Model for Histopathological Slide Analysis in Lung Cancer Diagnosis](https://www.mdpi.com/2072-6694/16/8/1506)
 
