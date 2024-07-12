@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad (Noor) Fawi</h1>
 <h3 align="center">A passionate self-taught data scientist and AI researcher</h3>
 
-- 🔭 My latest research: [CURLoRA: Leveraging CUR matrix decomposition for stable LLM continual fine-tuning and catastrophic forgetting mitigation]([https://github.com/MNoorFawi/curlora/blob/main/CURLoRA.pdf](https://doi.org/10.5281/zenodo.12730056))
+- 🔭 My latest research: [CURLoRA: Leveraging CUR matrix decomposition for stable LLM continual fine-tuning and catastrophic forgetting mitigation](https://doi.org/10.5281/zenodo.12730056)
 
 - 📝 My latest publication: [Development and Validation of a Deep Learning Model for Histopathological Slide Analysis in Lung Cancer Diagnosis](https://www.mdpi.com/2072-6694/16/8/1506)
 
