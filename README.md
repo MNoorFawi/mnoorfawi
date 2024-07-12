@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad (Noor) Fawi</h1>
-<h3 align="center">A passionate self-taught data scientist</h3>
+<h3 align="center">A passionate self-taught data scientist and AI researcher</h3>
 
 - 🔭 I’ve recently worked on [a research related to addressing catastrophic forgetting upon continual fine-tuning of LLMs](https://github.com/MNoorFawi/curlora/blob/main/CURLoRA.pdf)
 
