@@ -24,7 +24,7 @@
 - Custom SpaCy NER model with Bayesian Neural Networks
 - Deep learning model to predict chronic diseases
 
-<h3 align="left">Technical Skills</h3>
+<h3 align="left">Key Technical Skills</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -32,6 +32,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" alt="ONNX" width="40" height="40"/>
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
