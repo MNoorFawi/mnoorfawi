@@ -18,7 +18,7 @@
 
 <h3 align="left">Key Projects</h3>
 
-- AI-driven search engine with Neo4j and PySpark
+- AI-driven search engine with PyTorch, Neo4j and PySpark
 - Deep Reinforcement Learning for continuous learning in search
 - Fine-tuning open-source LLM to write SQL
 - Custom SpaCy NER model with Bayesian Neural Networks
