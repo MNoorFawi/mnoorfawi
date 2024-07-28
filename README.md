@@ -50,5 +50,5 @@
 </p>
 
 <p align="left">
-  📝 I write about AI and Data Science at <a href="https://minimatech.org">minimatech.org</a>
+  📝 I write about AI and Data Science at my website <a href="https://minimatech.org">minimatech.org</a>
 </p>
