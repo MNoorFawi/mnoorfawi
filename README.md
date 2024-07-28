@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/mnoorfawi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://orcid.org/0009-0007-7210-0528"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"/></a>
-  <a href="https://minimatech.org"><img src="https://img.shields.io/badge/-Blog-FF4088?style=flat-square&logo=Hugo&logoColor=white"/></a>
+  <a href="https://minimatech.org"><img src="https://img.shields.io/badge/-Blog-D3D3D3?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAulBMVEUAAAAAAAB/f39UVFRVVVVbW1taWlpUVFRYWFhXV1dYWFhVWlpXV1tWWVlXWlpYWFtWWVtXV1pYWFpYWFoAAABYWFoAAAADAwMAAABWWFoBAQEAAABYWFpXWVtYWFpYWFtYWFtYWFtXWVpYWVpYWVpXWVpXWVtYWVpYWVtYWVoAAAAAAAAAAAAAAAAAAAAAAAAAAABYWVsAAABXWFpYWVsAAABXWFpYWVpYWVtXWFpYWVtYWVsAAABYWVsGgBmJAAAAPHRSTlMAAQIJDA4REhogKzBAR1VZZGZrcXp/gYKDh4iKlpqboaqwsby/y9TZ2d7g4eLk7O3u8PHy8/T0+Pj6+/xV7K5GAAAAgElEQVQYV6XNWRuBUACE4bGGENmylqXsW3RQzf//Ww5Pm2vfxVy8N4ODN9iKKWSmWI+8I85hf8hrASje2RuHlw9UAzYBja9KBFhwDjkWYmjwoShP1hPIb9hu0cl94SQBHa6W1JFCWfj+rZQBzMgJsqDadu0HouKXf2HndlMw3P0bkesZSSqTlSwAAAAASUVORK5CYII=&logoColor=white"/></a>
 </p>
 
 <p align="center">Passionate about AI, mathematics, research, and coding. Turning complex ideas into elegant solutions.</p>
