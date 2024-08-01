@@ -13,8 +13,10 @@
 
 ### 📄 Recent Research
 
-- [CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting Mitigation](https://zenodo.org/doi/10.5281/zenodo.12730055)
-- [Development and Validation of a Deep Learning Model for Histopathological Slide Analysis in Lung Cancer Diagnosis](https://www.mdpi.com/2072-6694/16/8/1506)
+- [CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting Mitigation](https://zenodo.org/doi/10.5281/zenodo.12730055) (2024)
+  - DOI: 10.5281/zenodo.12730055
+- [Development and Validation of a Deep Learning Model for Histopathological Slide Analysis in Lung Cancer Diagnosis](https://www.mdpi.com/2072-6694/16/8/1506) (2024)
+  - DOI: 10.3390/cancers16081506
 
 ### 💡 Areas of Expertise
 
