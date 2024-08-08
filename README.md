@@ -17,22 +17,16 @@
   <tr>
     <th><strong>Research</strong></th>
     <th><strong>Impact</strong></th>
-	<th><strong>Type</strong></th>
-	<th><strong>Date</strong></th>
     <th><strong>DOI / Link</strong></th>
   </tr>
   <tr>
-    <td><strong>🧠 CURLoRA</strong><br>Stable LLM Continual Fine-Tuning</td>
+    <td><strong>🧠 CURLoRA</strong><br>Stable LLM Fine-Tuning</td>
     <td>Mitigating Catastrophic Forgetting</td>
-	<td>Preprint</td>
-	<td>July 2024</td>
     <td><a href="https://zenodo.org/doi/10.5281/zenodo.12730055"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.12730055-blue?style=flat-square" alt="DOI"/></a></td>
   </tr>
   <tr>
-    <td><strong>🔬 Deep Learning in Oncology</strong><br>AI-Powered Lung Cancer Diagnosis</td>
-    <td>Enhancing Histopathological Analysis</td>
-	<td>Journal Article</td>
-	<td>April 2024</td>
+    <td><strong>🔬 Deep Learning in Oncology</strong><br>AI-Powered Cancer Diagnosis</td>
+    <td>Enhancing Histopathological Slide Analysis</td>
     <td><a href="https://www.mdpi.com/2072-6694/16/8/1506"><img src="https://img.shields.io/badge/DOI-10.3390/cancers16081506-blue?style=flat-square" alt="DOI"/></a></td>
   </tr>
 </table>
