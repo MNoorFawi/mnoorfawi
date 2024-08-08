@@ -1,22 +1,41 @@
 <h1 align="center">Muhammad (Noor) Fawi</h1>
-<h3 align="center">🧠 Senior Data Scientist | 🔬 AI Researcher</h3>
+<h3 align="center">🔢 Senior Data Scientist | 🔭 AI Researcher</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mnoorfawi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://orcid.org/0009-0007-7210-0528"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"/></a>
-  <a href="https://minimatech.org"><img src="https://img.shields.io/badge/-Website-D3D3D3?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAulBMVEUAAAAAAAB/f39UVFRVVVVbW1taWlpUVFRYWFhXV1dYWFhVWlpXV1tWWVlXWlpYWFtWWVtXV1pYWFpYWFoAAABYWFoAAAADAwMAAABWWFoBAQEAAABYWFpXWVtYWFpYWFtYWFtYWFtXWVpYWVpYWVpXWVpXWVtYWVpYWVtYWVoAAAAAAAAAAAAAAAAAAAAAAAAAAABYWVsAAABXWFpYWVsAAABXWFpYWVpYWVtXWFpYWVtYWVsAAABYWVsGgBmJAAAAPHRSTlMAAQIJDA4REhogKzBAR1VZZGZrcXp/gYKDh4iKlpqboaqwsby/y9TZ2d7g4eLk7O3u8PHy8/T0+Pj6+/xV7K5GAAAAgElEQVQYV6XNWRuBUACE4bGGENmylqXsW3RQzf//Ww5Pm2vfxVy8N4ODN9iKKWSmWI+8I85hf8hrASje2RuHlw9UAzYBja9KBFhwDjkWYmjwoShP1hPIb9hu0cl94SQBHa6W1JFCWfj+rZQBzMgJsqDadu0HouKXf2HndlMw3P0bkesZSSqTlSwAAAAASUVORK5CYII=&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mnoorfawi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0007-7210-0528"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <a href="https://minimatech.org"><img src="https://img.shields.io/badge/-Website-D3D3D3?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAulBMVEUAAAAAAAB/f39UVFRVVVVbW1taWlpUVFRYWFhXV1dYWFhVWlpXV1tWWVlXWlpYWFtWWVtXV1pYWFpYWFoAAABYWFoAAAADAwMAAABWWFoBAQEAAABYWFpXWVtYWFpYWFtYWFtYWFtXWVpYWVpYWVpXWVpXWVtYWVpYWVtYWVoAAAAAAAAAAAAAAAAAAAAAAAAAAABYWVsAAABXWFpYWVsAAABXWFpYWVpYWVtXWFpYWVtYWVsAAABYWVsGgBmJAAAAPHRSTlMAAQIJDA4REhogKzBAR1VZZGZrcXp/gYKDh4iKlpqboaqwsby/y9TZ2d7g4eLk7O3u8PHy8/T0+Pj6+/xV7K5GAAAAgElEQVQYV6XNWRuBUACE4bGGENmylqXsW3RQzf//Ww5Pm2vfxVy8N4ODN9iKKWSmWI+8I85hf8hrASje2RuHlw9UAzYBja9KBFhwDjkWYmjwoShP1hPIb9hu0cl94SQBHa6W1JFCWfj+rZQBzMgJsqDadu0HouKXf2HndlMw3P0bkesZSSqTlSwAAAAASUVORK5CYII=&logoColor=white"/></a>
 </p>
 
-<p align="center">Passionate about AI, mathematics, research, and coding. Turning complex ideas into elegant solutions.</p>
+<p align="center">Passionate about AI, mathematics, research, and coding. Turning complex ideas into elegant and smart solutions.</p>
 
 ---
 
 ### 📄 Recent Research
 
-- [CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting Mitigation](https://zenodo.org/doi/10.5281/zenodo.12730055) (2024)
-  - <img class="alignnone" src="https://img.shields.io/badge/DOI-10.5281/zenodo.12730055-blue" alt="" width="190" height="20" />
-- [Development and Validation of a Deep Learning Model for Histopathological Slide Analysis in Lung Cancer Diagnosis](https://www.mdpi.com/2072-6694/16/8/1506) (2024)
-  - <img class="alignnone" src="https://img.shields.io/badge/DOI-10.3390/cancers16081506-blue" alt="" width="190" height="20" />
+  <table align="center">
+  <tr>
+    <th><strong>Research</strong></th>
+    <th><strong>Impact</strong></th>
+	<th><strong>Type</strong></th>
+	<th><strong>Date</strong></th>
+    <th><strong>DOI / Link</strong></th>
+  </tr>
+  <tr>
+    <td><strong>🧠 CURLoRA</strong><br>Stable LLM Continual Fine-Tuning</td>
+    <td>Mitigating Catastrophic Forgetting</td>
+	<td>Preprint</td>
+	<td>July 2024</td>
+    <td><a href="https://zenodo.org/doi/10.5281/zenodo.12730055"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.12730055-blue?style=flat-square" alt="DOI"/></a></td>
+  </tr>
+  <tr>
+    <td><strong>🔬 Deep Learning in Oncology</strong><br>AI-Powered Lung Cancer Diagnosis</td>
+    <td>Enhancing Histopathological Analysis</td>
+	<td>Journal Article</td>
+	<td>April 2024</td>
+    <td><a href="https://www.mdpi.com/2072-6694/16/8/1506"><img src="https://img.shields.io/badge/DOI-10.3390/cancers16081506-blue?style=flat-square" alt="DOI"/></a></td>
+  </tr>
+</table>
 
 ### 💡 Areas of Expertise
 
@@ -32,19 +51,19 @@
 
 ### 🛠️ Key Projects
 
-- AI-driven search engine with PyTorch, Neo4j and PySpark
-- Deep Reinforcement Learning for continuous learning in search
-- Fine-tuning open-source LLM to write SQL
-- Custom SpaCy NER model with Bayesian Neural Networks
-- Deep learning model to predict chronic diseases
+- 🔎 AI-driven search engine with PyTorch, Neo4j and PySpark
+- 🤖 Deep Reinforcement Learning for continuous learning in search engine
+- 🧠 Fine-tuning open-source LLM to write SQL
+- 🔮 Custom SpaCy NER model with Bayesian Neural Networks
+- 🏥 Deep learning model to predict chronic diseases
 
 ### 📦 Open Source Packages
 
-<p align="center">
-  <a href="https://pypi.org/project/pytholog/"><img src="https://img.shields.io/badge/-Pytholog-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://pypi.org/project/lshashing/"><img src="https://img.shields.io/badge/-LSHashing-FFA116?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://pypi.org/project/lzhw/"><img src="https://img.shields.io/badge/-LZHW-4EA94B?style=for-the-badge&logo=python&logoColor=white"/></a>
-</p>
+<div align="center": style="background-color: #f6f8fa; padding: 10px; border-radius: 6px;">
+  <a href="https://pypi.org/project/pytholog/"><img src="https://img.shields.io/badge/Pytholog-Logic Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://pypi.org/project/lshashing/"><img src="https://img.shields.io/badge/LSHashing-Similarity Search-FFA116?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://pypi.org/project/lzhw/"><img src="https://img.shields.io/badge/LZHW-Data Compression-4EA94B?style=for-the-badge&logo=python&logoColor=white"/></a>
+</div>
 
 ### 🔧 Tech Stack
 
