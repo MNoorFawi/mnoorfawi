@@ -22,12 +22,12 @@
   <tr>
     <td><strong>🧠 CURLoRA</strong><br>Stable LLM Fine-Tuning</td>
     <td>Mitigating Catastrophic Forgetting</td>
-    <td><a href="https://zenodo.org/doi/10.5281/zenodo.12730055"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.12730055-blue?style=flat-square" alt="DOI"/></a></td>
+    <td><a href="https://zenodo.org/doi/10.5281/zenodo.12730055"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.12730055-blue?style=for-the-badge" alt="DOI"/></a></td>
   </tr>
   <tr>
     <td><strong>🔬 Deep Learning in Oncology</strong><br>AI-Powered Cancer Diagnosis</td>
     <td>Enhancing Histopathological Slide Analysis</td>
-    <td><a href="https://www.mdpi.com/2072-6694/16/8/1506"><img src="https://img.shields.io/badge/DOI-10.3390/cancers16081506-blue?style=flat-square" alt="DOI"/></a></td>
+    <td><a href="https://www.mdpi.com/2072-6694/16/8/1506"><img src="https://img.shields.io/badge/DOI-10.3390/cancers16081506-blue?style=for-the-badge" alt="DOI"/></a></td>
   </tr>
 </table>
 
@@ -54,9 +54,9 @@
 ### 📦 Open Source Packages
 
 <div align="center": style="background-color: #f6f8fa; padding: 10px; border-radius: 6px;">
-  <a href="https://pypi.org/project/pytholog/"><img src="https://img.shields.io/badge/Pytholog-Logic Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://pypi.org/project/lshashing/"><img src="https://img.shields.io/badge/LSHashing-Similarity Search-FFA116?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://pypi.org/project/lzhw/"><img src="https://img.shields.io/badge/LZHW-Data Compression-4EA94B?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://pypi.org/project/pytholog/"><img src="https://img.shields.io/badge/Pytholog-Logic Programming-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://pypi.org/project/lshashing/"><img src="https://img.shields.io/badge/LSHashing-Similarity Search-FFA116?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://pypi.org/project/lzhw/"><img src="https://img.shields.io/badge/LZHW-Data Compression-4EA94B?style=flat-square&logo=python&logoColor=white"/></a>
 </div>
 
 ### 🔧 Tech Stack
