@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Artificial Intelligence-005CED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Machine Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Natural Language Processing-4EA94B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Natural Language Processing-45A041?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Reinforcement Learning-2484ED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Large Language Models-FF4088?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-AI Search Engines-FFA116?style=for-the-badge"/>
