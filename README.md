@@ -40,13 +40,14 @@
 ### 💡 Areas of Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Artificial Intelligence-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Artificial Intelligence-005CED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Machine Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Natural Language Processing-4EA94B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Reinforcement Learning-2496ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Reinforcement Learning-2484ED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Large Language Models-FF4088?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-AI Search Engines-FFA116?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Bayesian Neural Networks-9999FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Bayesian Neural Networks-7777FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Recommender Systems-3776AB?style=for-the-badge"/>
 </p>
 
 ### 🛠️ Key Projects
@@ -61,7 +62,7 @@
 
 <div align="center": style="background-color: #f6f8fa; padding: 10px; border-radius: 6px;">
   <a href="https://pypi.org/project/pytholog/"><img src="https://img.shields.io/badge/Pytholog-Logic Programming-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-  <a href="https://pypi.org/project/lshashing/"><img src="https://img.shields.io/badge/LSHashing-Similarity Search-FFA116?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://pypi.org/project/lshashing/"><img src="https://img.shields.io/badge/LSHashing-Similarity Search-E25A1C?style=flat-square&logo=python&logoColor=white"/></a>
   <a href="https://pypi.org/project/lzhw/"><img src="https://img.shields.io/badge/LZHW-Data Compression-4EA94B?style=flat-square&logo=python&logoColor=white"/></a>
 </div>
 
