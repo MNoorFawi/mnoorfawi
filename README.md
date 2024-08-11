@@ -33,7 +33,7 @@
     <td>Enhancing Histopathological Slide Analysis</td>
     <td>Journal Article</td>
     <td>April 2024</td>
-    <td><a href="https://www.mdpi.com/2072-6694/16/8/1506" style="text-decoration: none; color: inherit;">10.3390/cancers16081506</a></td>
+    <td><a href="https://doi.org/10.3390/cancers16081506" style="text-decoration: none; color: inherit;">10.3390/cancers16081506</a></td>
   </tr>
 </table>
 
