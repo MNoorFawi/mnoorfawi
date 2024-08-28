@@ -26,7 +26,7 @@
     <td>Mitigating Catastrophic Forgetting</td>
     <td>Preprint</td>
     <td>July 2024</td>
-    <td><a href="https://doi.org/10.5281/zenodo.12730055" style="text-decoration: none; color: inherit;">10.5281/zenodo.12730055</a></td>
+    <td><a href="https://doi.org/10.48550/arXiv.2408.14572" style="text-decoration: none; color: inherit;">10.48550/arXiv.2408.14572</a></td>
   </tr>
   <tr>
     <td><strong>🔬 Deep Learning in Oncology</strong><br>AI-Powered Cancer Diagnosis</td>
