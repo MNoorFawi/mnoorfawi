@@ -37,6 +37,10 @@
   </tr>
 </table>
 
+### 👨‍💻 Current Research Focus
+
+- 🤖 Developing efficient action embeddings in reinforcement learning to address high-dimensional action spaces
+
 ### 💡 Areas of Expertise
 
 <p align="center">
