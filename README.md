@@ -17,21 +17,21 @@
   <tr>
     <th><strong>Research</strong></th>
     <th><strong>Impact</strong></th>
-    <th><strong>Type</strong></th>
+    <!-- <th><strong>Type</strong></th> -->
     <th><strong>Date</strong></th>
     <th><strong>DOI / Link</strong></th>
   </tr>
   <tr>
     <td><strong>🧠 CURLoRA</strong><br>Stable LLM Fine-Tuning</td>
     <td>Mitigating Catastrophic Forgetting</td>
-    <td>Preprint</td>
+    <!-- <td>Preprint</td> -->
     <td>July 2024</td>
     <td><a href="https://doi.org/10.48550/arXiv.2408.14572" style="text-decoration: none; color: inherit;">10.48550/arXiv.2408.14572</a></td>
   </tr>
   <tr>
     <td><strong>🔬 Deep Learning in Oncology</strong><br>AI-Powered Cancer Diagnosis</td>
     <td>Enhancing Histopathological Slide Analysis</td>
-    <td>Journal Article</td>
+    <!-- <td>Journal Article</td> -->
     <td>April 2024</td>
     <td><a href="https://doi.org/10.3390/cancers16081506" style="text-decoration: none; color: inherit;">10.3390/cancers16081506</a></td>
   </tr>
