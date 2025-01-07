@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad (Noor) Fawi</h1>
-<h3 align="center">🔢 Senior Data Scientist | 🔭 AI Researcher</h3>
+<h3 align="center">🔢🔭 Data Scientist & Researcher</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mnoorfawi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -7,7 +7,7 @@
   <a href="https://minimatech.org"><img src="https://img.shields.io/badge/-Website-D3D3D3?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAulBMVEUAAAAAAAB/f39UVFRVVVVbW1taWlpUVFRYWFhXV1dYWFhVWlpXV1tWWVlXWlpYWFtWWVtXV1pYWFpYWFoAAABYWFoAAAADAwMAAABWWFoBAQEAAABYWFpXWVtYWFpYWFtYWFtYWFtXWVpYWVpYWVpXWVpXWVtYWVpYWVtYWVoAAAAAAAAAAAAAAAAAAAAAAAAAAABYWVsAAABXWFpYWVsAAABXWFpYWVpYWVtXWFpYWVtYWVsAAABYWVsGgBmJAAAAPHRSTlMAAQIJDA4REhogKzBAR1VZZGZrcXp/gYKDh4iKlpqboaqwsby/y9TZ2d7g4eLk7O3u8PHy8/T0+Pj6+/xV7K5GAAAAgElEQVQYV6XNWRuBUACE4bGGENmylqXsW3RQzf//Ww5Pm2vfxVy8N4ODN9iKKWSmWI+8I85hf8hrASje2RuHlw9UAzYBja9KBFhwDjkWYmjwoShP1hPIb9hu0cl94SQBHa6W1JFCWfj+rZQBzMgJsqDadu0HouKXf2HndlMw3P0bkesZSSqTlSwAAAAASUVORK5CYII=&logoColor=white"/></a>
 </p>
 
-<p align="center">Passionate about AI, mathematics, research, and coding. Turning complex ideas into elegant and smart solutions.</p>
+<p align="center">Passionate about AI, ML, mathematics, research, and coding.</p>
 
 ---
 
@@ -53,14 +53,6 @@
   <img src="https://img.shields.io/badge/-Bayesian Neural Networks-7777FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Recommender Systems-3776AB?style=for-the-badge"/>
 </p>
-
-### 🛠️ Key Projects
-
-- 🔎 AI-driven search engine with PyTorch, Neo4j and PySpark
-- 🤖 Deep Reinforcement Learning for continuous learning in search engine
-- 🧠 Fine-tuning open-source LLM to write SQL
-- 🔮 Custom SpaCy NER model with Bayesian Neural Networks
-- 🏥 Deep learning model to predict chronic diseases
 
 ### 📦 Open Source Packages
 
